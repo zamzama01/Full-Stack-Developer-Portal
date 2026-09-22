@@ -1,0 +1,7 @@
+{
+  "name": "Full Stack Developer Portal",
+  "description": "A modern full-stack developer authentication portal with 3D interactive plexus canvas background and dynamic account recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
